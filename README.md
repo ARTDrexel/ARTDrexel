@@ -1,11 +1,7 @@
-### Read this I guess 👋
+# Read this I guess 👋
 
-<!--
-**ARTDrexel/ARTDrexel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... My MLIS
+<p>- 🔭 I’m currently working on ... My MLIS
 - 🌱 I’m currently learning ... about digital repositories
 - 👯 My previous education is ... a BS in Library Science and a MFA in Creative Writing
 - 🤔 I’m currently employed as ... the Executive Director of a Library
@@ -13,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... don't 
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... My hair has been every color of the rainbow
--->
+
+Check out these other cool repositories about [Dinosaurs](https://github.com/kjanjua26/jurassic-park) and [DnD 3.5](https://github.com/gman4161/DnD-3.5e-Books)
+</p>
+
